@@ -3,7 +3,6 @@ import java.util.*;
 import javax.swing.*;
 import java.awt.Desktop;
 
-
 public class JUMSUrl {
 	
 	public String url;
